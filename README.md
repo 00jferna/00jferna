@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @00jferna
+- 👋 Hi, I’m Jesse
 - 👀 I’m interested in fpv, coding, linux, small electronics projects
 - 🌱 I’m currently learning PHP, Java
 - 💞️ I’m looking to collaborate on anything to help learn more
