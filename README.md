@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse
 - 👀 I’m interested in fpv, coding, linux, small electronics projects
-- 🌱 I’m currently learning PHP, Java, Python
+- 🌱 I’m currently learning PHP, JavaScript, Python
 - 💞️ I’m looking to collaborate on anything to help learn more
 - 📫 How to reach me: 
 
